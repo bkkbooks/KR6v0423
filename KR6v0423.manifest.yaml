@@ -1,0 +1,1154 @@
+canonical_identifier: bkk:krp/KR6v0423/v1
+canonical_location: https://kanripo.org/bkk/KR6v0423/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 聖朝破邪集
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B28/B28n0155.xml
+    old_id: B28n0155
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0423_000.yaml, hash: 'sha256:d11348f81eb39f21aa3995799a72cfbdb7595d6b5c173a94c017b64b63b38b0c'}
+  - {seq: 1, filename: KR6v0423_001.yaml, hash: 'sha256:3e60280340644b3e557241c3803c3e455e84fb6ed1e87994f20513c997b8100e'}
+  - {seq: 2, filename: KR6v0423_002.yaml, hash: 'sha256:faad72bbbbf96e2c6b702652f64a251a49d8dc3ca7dc1e9e68bbc071cd7e09f6'}
+  - {seq: 3, filename: KR6v0423_003.yaml, hash: 'sha256:c488810b6941f2454d5b8c45dd0dadd4c91ac4f18e07514f560a9d10483a479c'}
+  - {seq: 4, filename: KR6v0423_004.yaml, hash: 'sha256:7487adb1a63bafd6ba41151f02c6958cb9a269c2b2cb5c0d8d072d008bf2ee15'}
+  - {seq: 5, filename: KR6v0423_005.yaml, hash: 'sha256:e21046908c4a35b4ddc06b3951bc5d9f2dedd5aa8187cbd906d331c567786229'}
+  - {seq: 6, filename: KR6v0423_006.yaml, hash: 'sha256:08e11adaccc3ff54bc5702a11a3700440b3d28a0122802c778120e98addaec45'}
+  - {seq: 7, filename: KR6v0423_007.yaml, hash: 'sha256:fa705a88bf4ff0ecd2258f7466e908ce93fdece03ba894b2d467ecf9a766597d'}
+  - {seq: 8, filename: KR6v0423_008.yaml, hash: 'sha256:ca729c762f4b6dad4b0689f1c0d20a60c99ecbe689e063cd5a46fb663b87fe34'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0423_000.markers.yaml, hash: 'sha256:0e0ba0373a7fe631d5886d5fbea55279a571e4a2a1569f87a7527216a4a0d838'}
+  - {seq: 1, role: markers, filename: assets/KR6v0423_001.markers.yaml, hash: 'sha256:8ed7b87ce95f9100a6c1add109009aa672d8a28e9765a739b1d8811b0309ca7e'}
+  - {seq: 2, role: markers, filename: assets/KR6v0423_002.markers.yaml, hash: 'sha256:5d585e9295d8574d6138b35fb95a79b930987d6115c3deba025069a6d3cc695b'}
+  - {seq: 3, role: markers, filename: assets/KR6v0423_003.markers.yaml, hash: 'sha256:ac9341892c6b38b635d9d8561f2cd2c20dd28d161ceb13e2453112f4e6906075'}
+  - {seq: 4, role: markers, filename: assets/KR6v0423_004.markers.yaml, hash: 'sha256:4e2f5d9af963b6989ef0122467ba003a9daeec7fae5eea54ec98c8218c9335f6'}
+  - {seq: 5, role: markers, filename: assets/KR6v0423_005.markers.yaml, hash: 'sha256:fbe44336b678aed4e19cc939352df4bbb87b85d29308077ac62706e00d9fdf3a'}
+  - {seq: 6, role: markers, filename: assets/KR6v0423_006.markers.yaml, hash: 'sha256:81f2c0d71f0eee3725e3bbf7a1095c5fc56d15e3c31c1c8e17bb02be39f5c7f2'}
+  - {seq: 7, role: markers, filename: assets/KR6v0423_007.markers.yaml, hash: 'sha256:aff9b9560f38daeeb75b6aa1bf8ba2b8a8509c4f2525fde72a70ad1cd5295b38'}
+  - {seq: 8, role: markers, filename: assets/KR6v0423_008.markers.yaml, hash: 'sha256:ffbdfe1debcb862831301ae2c55e59d49336d3951c46657699063be1ee092e05'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0423_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0423_B_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: 例言
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0423_B_000-mulu-3
+    span:
+    - front
+    - 109
+    - 109
+  label: 題詞
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0423_B_000-mulu-4
+    span:
+    - front
+    - 578
+    - 578
+  label: 原書細目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0423_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 10193
+  label: 明朝破邪集卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0423_B_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 「南宮署牘序」等
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0423_B_001-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 南宮署牘序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0423_B_001-mulu-3
+    span:
+    - body
+    - 1094
+    - 1094
+  label: 叅遠夷疏（凡三）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0423_B_001-mulu-4
+    span:
+    - body
+    - 1106
+    - 1106
+  label: 叅遠夷疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0423_B_001-mulu-5
+    span:
+    - body
+    - 2756
+    - 2756
+  label: 再叅遠夷疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0423_B_001-mulu-6
+    span:
+    - body
+    - 3786
+    - 3786
+  label: 叅遠夷三疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0423_B_001-mulu-7
+    span:
+    - body
+    - 4517
+    - 4517
+  label: 查驗夷犯劄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0423_B_001-mulu-8
+    span:
+    - body
+    - 5048
+    - 5048
+  label: 會審王豐肅等犯案
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0423_B_001-mulu-9
+    span:
+    - body
+    - 7853
+    - 7853
+  label: 南京都察院回咨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 10981
+  label: 明朝破邪集卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 「發遣遠夷回奏䟽」等
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 發遣遠夷回奏䟽
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-mulu-3
+    span:
+    - body
+    - 954
+    - 954
+  label: 會審鍾明禮等犯案
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-mulu-4
+    span:
+    - body
+    - 3608
+    - 3608
+  label: 會審鍾鳴仁等犯案
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-mulu-5
+    span:
+    - body
+    - 6125
+    - 6125
+  label: 拿獲邪黨後告示
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-mulu-6
+    span:
+    - body
+    - 7147
+    - 7147
+  label: 清查夷物案
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-mulu-7
+    span:
+    - body
+    - 7779
+    - 7779
+  label: 拆毀違制樓園案（附估修黃公祠）
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-mulu-8
+    span:
+    - body
+    - 7779
+    - 7779
+  label: 拆毀違制樓園案
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-mulu-9
+    span:
+    - body
+    - 8386
+    - 8386
+  label: 附估修修黃公祠案
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-mulu-10
+    span:
+    - body
+    - 8472
+    - 8472
+  label: 福建巡海道告示
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-mulu-11
+    span:
+    - body
+    - 10262
+    - 10262
+  label: 提刑按察司告示
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0423_B_002-mulu-12
+    span:
+    - body
+    - 10744
+    - 10744
+  label: 福州府告示
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 11611
+  label: 聖朝破邪集卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 「破邪集序」等
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 破邪集序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-mulu-3
+    span:
+    - body
+    - 645
+    - 645
+  label: 明朝破邪集序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-mulu-4
+    span:
+    - body
+    - 960
+    - 960
+  label: 題黃天香詞盟
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-mulu-5
+    span:
+    - body
+    - 1024
+    - 1024
+  label: 破邪集序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-mulu-6
+    span:
+    - body
+    - 1701
+    - 1701
+  label: 請顏壯其先生闢天主教書
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-mulu-7
+    span:
+    - body
+    - 3065
+    - 3065
+  label: 尊儒亟鏡叙
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-mulu-8
+    span:
+    - body
+    - 6391
+    - 6391
+  label: 破邪集自敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-mulu-9
+    span:
+    - body
+    - 7565
+    - 7565
+  label: 罪言
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-mulu-10
+    span:
+    - body
+    - 8193
+    - 8193
+  label: 驅夷直言
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-mulu-11
+    span:
+    - body
+    - 9194
+    - 9194
+  label: 邪毒實據
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0423_B_003-mulu-12
+    span:
+    - body
+    - 10630
+    - 10630
+  label: 利說荒唐惑世
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 14342
+  label: 明朝破邪集卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 「聖朝佐闢自敘」等
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 聖朝佐闢自敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-3
+    span:
+    - body
+    - 482
+    - 482
+  label: 聖朝佐闢
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-4
+    span:
+    - body
+    - 484
+    - 484
+  label: 一闢誑世
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-5
+    span:
+    - body
+    - 1586
+    - 1586
+  label: 二闢誣天
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-6
+    span:
+    - body
+    - 2299
+    - 2299
+  label: 三闢裂性
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-7
+    span:
+    - body
+    - 4436
+    - 4436
+  label: 四闢貶儒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-8
+    span:
+    - body
+    - 5289
+    - 5289
+  label: 五闢反倫
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-9
+    span:
+    - body
+    - 6356
+    - 6356
+  label: 六闢廢祀
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-10
+    span:
+    - body
+    - 6875
+    - 6875
+  label: 七闢竊佛訶佛種種罪過
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-11
+    span:
+    - body
+    - 11146
+    - 11146
+  label: 八闢夷所謂善之實非善
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-12
+    span:
+    - body
+    - 12115
+    - 12115
+  label: 九闢夷技不足尚夷貨不足貪夷占不足信
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0423_B_004-mulu-13
+    span:
+    - body
+    - 13129
+    - 13129
+  label: 十闢行私曆攘瑞應謀不軌為千古未聞之大逆
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 8994
+  label: 明朝破邪集卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 「辨學蒭言自敘」等
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 辨學蒭言（敘一辨凡五）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-3
+    span:
+    - body
+    - 11
+    - 11
+  label: 自敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-4
+    span:
+    - body
+    - 331
+    - 331
+  label: 西學辨一
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-5
+    span:
+    - body
+    - 620
+    - 620
+  label: 西學辨二
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-6
+    span:
+    - body
+    - 1189
+    - 1189
+  label: 西學辨三
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-7
+    span:
+    - body
+    - 1712
+    - 1712
+  label: 西學辨四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-8
+    span:
+    - body
+    - 2303
+    - 2303
+  label: 西學辨五
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-9
+    span:
+    - body
+    - 2920
+    - 2920
+  label: 天學剖疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-10
+    span:
+    - body
+    - 3586
+    - 3586
+  label: 殺生辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-11
+    span:
+    - body
+    - 4612
+    - 4612
+  label: 破利夷僭天罔世
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-12
+    span:
+    - body
+    - 5064
+    - 5064
+  label: 闢邪解
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-13
+    span:
+    - body
+    - 5444
+    - 5444
+  label: 闢邪解
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-14
+    span:
+    - body
+    - 6546
+    - 6546
+  label: 劈邪說
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0423_B_005-mulu-15
+    span:
+    - body
+    - 7920
+    - 7920
+  label: 闢邪摘要畧議
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0423_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 7228
+  label: 明朝破邪集卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0423_B_006-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 「誅夷論畧」等
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0423_B_006-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 誅夷論畧
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0423_B_006-mulu-3
+    span:
+    - body
+    - 2148
+    - 2148
+  label: 闢邪管見錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0423_B_006-mulu-4
+    span:
+    - body
+    - 2684
+    - 2684
+  label: 攘夷報國公揭
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0423_B_006-mulu-5
+    span:
+    - body
+    - 3298
+    - 3298
+  label: 十二深慨序
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0423_B_006-mulu-6
+    span:
+    - body
+    - 3483
+    - 3483
+  label: 十二深慨
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0423_B_006-mulu-7
+    span:
+    - body
+    - 4633
+    - 4633
+  label: 品級說
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0423_B_006-mulu-8
+    span:
+    - body
+    - 4896
+    - 4896
+  label: 誅邪顯據錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0423_B_006-mulu-9
+    span:
+    - body
+    - 5456
+    - 5456
+  label: 曆法論
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0423_B_006-mulu-10
+    span:
+    - body
+    - 6734
+    - 6734
+  label: 四宿引證
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0423_B_006-mulu-11
+    span:
+    - body
+    - 7106
+    - 7106
+  label: 續正氣歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-juan-start
+    span:
+    - body
+    - 0
+    - 12997
+  label: 明朝破邪集卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 「天說」等
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 天說（凡四）
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-3
+    span:
+    - body
+    - 11
+    - 11
+  label: 天說一
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-4
+    span:
+    - body
+    - 383
+    - 383
+  label: 天說二
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-5
+    span:
+    - body
+    - 870
+    - 870
+  label: 天說三
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-6
+    span:
+    - body
+    - 1051
+    - 1051
+  label: 天說餘
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-7
+    span:
+    - body
+    - 1341
+    - 1341
+  label: 不忍不言序
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-8
+    span:
+    - body
+    - 2093
+    - 2093
+  label: 不忍不言
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-9
+    span:
+    - body
+    - 3491
+    - 3491
+  label: 辨天說（凡三）
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-10
+    span:
+    - body
+    - 3491
+    - 3491
+  label: 辨天初說
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-11
+    span:
+    - body
+    - 3787
+    - 3787
+  label: 辨天二說
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-12
+    span:
+    - body
+    - 5368
+    - 5368
+  label: 辯天三說
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-13
+    span:
+    - body
+    - 9981
+    - 9981
+  label: 證妄說
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-14
+    span:
+    - body
+    - 11185
+    - 11185
+  label: 復張夢宅書
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-15
+    span:
+    - body
+    - 11242
+    - 11242
+  label: 證妄說跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-16
+    span:
+    - body
+    - 11380
+    - 11380
+  label: 證妄後說
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0423_B_007-mulu-17
+    span:
+    - body
+    - 12848
+    - 12848
+  label: 附緇素共證
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0423_B_008-juan-start
+    span:
+    - body
+    - 0
+    - 12939
+  label: 聖朝破邪集卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0423_B_008-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 「統正序」等
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0423_B_008-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 統正序
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0423_B_008-mulu-3
+    span:
+    - body
+    - 437
+    - 437
+  label: 原道闢邪說（凡四）
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0423_B_008-mulu-4
+    span:
+    - body
+    - 451
+    - 451
+  label: 揭邪見根源
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0423_B_008-mulu-5
+    span:
+    - body
+    - 3495
+    - 3495
+  label: 揭邪見以空無謗佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0423_B_008-mulu-6
+    span:
+    - body
+    - 4567
+    - 4567
+  label: 揭邪見不循本分以三魂惑世
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0423_B_008-mulu-7
+    span:
+    - body
+    - 5590
+    - 5590
+  label: 揭邪見迷萬物不能為一體
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0423_B_008-mulu-8
+    span:
+    - body
+    - 6547
+    - 6547
+  label: 誅左集緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0423_B_008-mulu-9
+    span:
+    - body
+    - 7305
+    - 7305
+  label: 闢天主教檄
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0423_B_008-mulu-10
+    span:
+    - body
+    - 7632
+    - 7632
+  label: 天學初闢
+  type: mulu
+  level: 1
+hash: sha256:10977fbe56ff7e903e92f272e9450a07717a62715e6e1cacb60275ac852e452b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
