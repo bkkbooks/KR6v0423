@@ -19,7 +19,7 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0423_000-B.yaml, hash: 'sha256:6ee1ef9ce96f1b397b501e5f899471e7f89f95f4d1449e629e2112b676edf01d'}
+  - {seq: 0, filename: KR6v0423_000-B.yaml, hash: 'sha256:82a4015e8b0f6f15402894ea4817f1bc1e7d9a1b96fdaede63eaef256f7bd7fa'}
   - {seq: 1, filename: KR6v0423_001-B.yaml, hash: 'sha256:6eddfa2abe59cd3421d58a09b21381da93b94b38ddbfc38b472e78e8f040782a'}
   - {seq: 2, filename: KR6v0423_002-B.yaml, hash: 'sha256:a1e6c2eb86ab88d43cf82f919432883596927a95432d9db7edb2328edbec821c'}
   - {seq: 3, filename: KR6v0423_003-B.yaml, hash: 'sha256:fab6db9747b2c9d85c307cd173e0ed98ba42fe71182809f7fc293f96492a93bb'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 7, filename: KR6v0423_007-B.yaml, hash: 'sha256:6732221e29c64a866b2f5c63d072abf09f2ce7f929eac9964055bc70d136d31c'}
   - {seq: 8, filename: KR6v0423_008-B.yaml, hash: 'sha256:735d2af63f0edc547a4d874ea55a2182ff75d2e509f3d10c4f64453cdbaf0c3e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0423_000-B.markers.yaml, hash: 'sha256:f72f5ad3762cbd402af1013711de6b9d11800d7d60a29ee2f49f0077dff71314'}
+  - {seq: 0, role: markers, filename: assets/KR6v0423_000-B.markers.yaml, hash: 'sha256:a9d9804c6b31fe22bfad865991ed4501039bd632802cd86edc0854d2edca58ed'}
   - {seq: 1, role: markers, filename: assets/KR6v0423_001-B.markers.yaml, hash: 'sha256:9bcfea3dd0eda9a38906c7325fa2c5c24f2e028488cb563e453fb22ca6f5fb69'}
   - {seq: 2, role: markers, filename: assets/KR6v0423_002-B.markers.yaml, hash: 'sha256:4ce39c3099d4e4cd16eb4c5bdd77351c65858e3a97a0df8a71f1258305bd6962'}
   - {seq: 3, role: markers, filename: assets/KR6v0423_003-B.markers.yaml, hash: 'sha256:e3c8e7c1f8c5f63532ea83939413e3af5cf6e1b657fdbe72f5a8e250cfdaf328'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0423_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0423_B_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 例言
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0423_B_000-mulu-3
     span:
-    - front
+    - body
     - 109
     - 109
   label: 題詞
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0423_B_000-mulu-4
     span:
-    - front
+    - body
     - 578
     - 578
   label: 原書細目
@@ -1149,4 +1149,4 @@ table_of_contents:
   label: 天學初闢
   type: mulu
   level: 1
-hash: sha256:a8d7b71d3f23ea8444d8ea66185632aea0d1eb583cf886c40ce881a2d41c4023
+hash: sha256:fe5e662ea3e1c437bd4dc7ed49ad5dce4e1881f982c5a8e4c7ea638f53797285
